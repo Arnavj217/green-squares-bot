@@ -16,10 +16,10 @@ jobs:
         with:
           fetch-depth: 0  # Important for rebase and push
 
-      - name: Set up Git identity as TRahulsingh
+      - name: Set up Git identity as Arnavj217
         run: |
-          git config user.name "TRahulsingh"
-          git config user.email "181671845+TRahulsingh@users.noreply.github.com"
+          git config user.name "Arnavj217"
+          git config user.email "arnavjain2107@gmail.com"
 
       - name: Install Python & pytz
         run: |
