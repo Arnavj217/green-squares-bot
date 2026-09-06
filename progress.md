@@ -741,3 +741,4 @@
 [2026-09-06 11:11:07 PM] Build something you're proud of.
 [2026-09-06 11:11:07 PM] Don’t break the streak — commit today!
 [2026-09-06 11:11:07 PM] You’re one step closer to your goal.
+[2026-09-06 11:11:07 PM] Consistency is more important than intensity.
